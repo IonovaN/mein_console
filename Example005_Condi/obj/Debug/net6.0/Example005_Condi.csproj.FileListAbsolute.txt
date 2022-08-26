@@ -1,0 +1,15 @@
+/Users/ionovanatalia/Desktop/Examples/Example005_Condi/obj/Debug/net6.0/Example005_Condi.csproj.AssemblyReference.cache
+/Users/ionovanatalia/Desktop/Examples/Example005_Condi/obj/Debug/net6.0/Example005_Condi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ionovanatalia/Desktop/Examples/Example005_Condi/obj/Debug/net6.0/Example005_Condi.AssemblyInfoInputs.cache
+/Users/ionovanatalia/Desktop/Examples/Example005_Condi/obj/Debug/net6.0/Example005_Condi.AssemblyInfo.cs
+/Users/ionovanatalia/Desktop/Examples/Example005_Condi/obj/Debug/net6.0/Example005_Condi.csproj.CoreCompileInputs.cache
+/Users/ionovanatalia/Desktop/Examples/Example005_Condi/bin/Debug/net6.0/Example005_Condi
+/Users/ionovanatalia/Desktop/Examples/Example005_Condi/bin/Debug/net6.0/Example005_Condi.deps.json
+/Users/ionovanatalia/Desktop/Examples/Example005_Condi/bin/Debug/net6.0/Example005_Condi.runtimeconfig.json
+/Users/ionovanatalia/Desktop/Examples/Example005_Condi/bin/Debug/net6.0/Example005_Condi.dll
+/Users/ionovanatalia/Desktop/Examples/Example005_Condi/bin/Debug/net6.0/Example005_Condi.pdb
+/Users/ionovanatalia/Desktop/Examples/Example005_Condi/obj/Debug/net6.0/Example005_Condi.dll
+/Users/ionovanatalia/Desktop/Examples/Example005_Condi/obj/Debug/net6.0/refint/Example005_Condi.dll
+/Users/ionovanatalia/Desktop/Examples/Example005_Condi/obj/Debug/net6.0/Example005_Condi.pdb
+/Users/ionovanatalia/Desktop/Examples/Example005_Condi/obj/Debug/net6.0/Example005_Condi.genruntimeconfig.cache
+/Users/ionovanatalia/Desktop/Examples/Example005_Condi/obj/Debug/net6.0/ref/Example005_Condi.dll
